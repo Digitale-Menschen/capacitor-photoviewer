@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonHeader, IonToolbar, IonTitle, IonContent, IonButton } from '@ionic/angular/standalone';
-import { PhotoViewer } from '@capacitor-community/photoviewer';
+import { PhotoViewer } from '@digitale-menschen/capacitor-photoviewer';
 
 @Component({
   selector: 'app-home',
